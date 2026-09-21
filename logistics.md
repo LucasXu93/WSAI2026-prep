@@ -1,20 +1,18 @@
 # WSAI 2026 – Logistics
 
-xxxxx
+Updated 18 Sept — travel now booked, hotel still deciding
 
 ## Travel
 
-- Options: Eurostar (St Pancras → Amsterdam Centraal, ~4hrs direct) or fly LHR/LCY → AMS (~1hr 15)
-- Dates: out 6 Oct, return 9 Oct — TBC, may extend for World AI Week events
-- Booking: TBC
+- Booked: Eurostar out 6 Oct 08:16 St Pancras → Amsterdam Centraal, return 9 Oct
 
 ## Accommodation
 
-- Venue Zaandam (not central)
+- Venue in Zaandam (not central)
 - Decision: stay near venue or central?
 - Other World AI Week events spread across the city
-- Hotel: TBC
-- Nights: TBC pending travel dates
+- Leaning central — shortlisted a couple near Centraal, book this week
+- Nights: TBC pending final travel dates
 
 ## Conference
 
@@ -29,8 +27,7 @@ xxxxx
 - Own session — day and time TBC, waiting on final programme
 - Tracks of interest: physical AI, responsible AI & governance
 - Startup showcase — worth a look
-- Rest TBC once agenda drops
-
+- Rest TBC
 ## Contacts / meetups
 
 - TBC — will see who's attending once the list is up
@@ -38,5 +35,5 @@ xxxxx
 ## Misc
 
 - Visa: not required
-- ETIAS: check whether this applies by October
+- ETIAS: confirmed not required for short stay
 - Expenses: submit within 2 weeks of return
